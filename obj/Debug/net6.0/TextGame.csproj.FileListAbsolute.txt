@@ -1,0 +1,15 @@
+C:\Users\VESTEL\Desktop\New folder\TextGame\bin\Debug\net6.0\TextGame.exe
+C:\Users\VESTEL\Desktop\New folder\TextGame\bin\Debug\net6.0\TextGame.deps.json
+C:\Users\VESTEL\Desktop\New folder\TextGame\bin\Debug\net6.0\TextGame.runtimeconfig.json
+C:\Users\VESTEL\Desktop\New folder\TextGame\bin\Debug\net6.0\TextGame.dll
+C:\Users\VESTEL\Desktop\New folder\TextGame\bin\Debug\net6.0\TextGame.pdb
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\TextGame.csproj.AssemblyReference.cache
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\TextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\TextGame.AssemblyInfoInputs.cache
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\TextGame.AssemblyInfo.cs
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\TextGame.csproj.CoreCompileInputs.cache
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\TextGame.dll
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\refint\TextGame.dll
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\TextGame.pdb
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\TextGame.genruntimeconfig.cache
+C:\Users\VESTEL\Desktop\New folder\TextGame\obj\Debug\net6.0\ref\TextGame.dll
